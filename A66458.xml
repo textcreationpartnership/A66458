@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders and rules to be humbly proposed to His Majesty [T]o [b]e by him establish'd for rectifying some of the proceedings in the High Court of Chauncery, and other courts of equity, with reasons for the same. Composed by Walter Williams of the Middle Temple barister at law, 1st of May, 1700.</title>
+            <author>Williams, Walter, of the Middle Temple.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66458</idno>
+            <idno type="STC">Wing W2777</idno>
+            <idno type="STC">ESTC R218548</idno>
+            <idno type="EEBO-CITATION">99830130</idno>
+            <idno type="PROQUEST">99830130</idno>
+            <idno type="VID">34580</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34580)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1942:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders and rules to be humbly proposed to His Majesty [T]o [b]e by him establish'd for rectifying some of the proceedings in the High Court of Chauncery, and other courts of equity, with reasons for the same. Composed by Walter Williams of the Middle Temple barister at law, 1st of May, 1700.</title>
+                  <author>Williams, Walter, of the Middle Temple.</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Copy tightly bound with slight loss of print; worn letters in l. 3 of title; annotated in MS. at end: "[illeg.] matriculat. 21. Mart. 1672-3 Walter Williams".</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Court of Chancery --  Administration --  Early works to 1800.</term>
+               <term>Court administration --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:34580:1" rendition="simple:additions"/>
+            <head>ORDERS and RULES to be Humbly Propoſed <hi>To His Majeſty,</hi> To be by him Eſtabliſh'd for reſtraining the great Expence and length of Suites, and for rectifying ſome of the Proceedings in the <hi>High Court of Chauncery,</hi> and other Courts of Equity, with <hi>Reaſons</hi> for the ſame.</head>
+            <byline>
+               <hi>Compoſed by</hi> Walter Williams <hi>of the</hi> Middle Temple <hi>Bariſter at Law,</hi> 
+               <date>1ſt <hi>of</hi> May, 1700.</date>
+            </byline>
+            <p>BY our <hi>Magna Charta,</hi> (upon which we much value our ſelves) cap. 29th. it is ordein'd that Juſtice or Right ſhould not be ſold, or denied, or delayd by the King to any Man. But if by the ſubtle contriveance of the Officers and Clerks in Couts of Equity the proceedings are extended to an Ex<g ref="char:EOLhyphen"/>travagant &amp; unneceſſary length, &amp; thereby the charge of proſecuting or defending Mens Rights is <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>vagantly increaſed, and the determination of Cauſes is unneceſſarily and unreaſonably delay'd, I take <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be a ſelling of Juſtice and Right at too deer a rate, and it is manifeſt to all that have had any expe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e of Chauncery Suites, that the charge and delay in proceedings there are grown to be ſuch, that <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Cauſes of great wrong and oppreſſion the Remedy is worſe than the diſeaſe, and moſt Men of ſmall <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> indifferent Eſtates that come thither for Releif often meet with ruin by the very charge of the pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dings, therefore for preventing the like for the future, the following Orders and Rules are propoſed <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fit to be Eſtabliſh'd in Chauncery and other Courts of Equity, whereby both the expence and delay <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ll be conſiderably leſſen'd, and yet Officers and Clerks ſufficiently rewarded for their labour.</p>
+            <p>
+               <hi>Firſt,</hi> That there ſhall be no Copy or Abſtract of any Bill ſent with or annext to the <hi>Dedimus,</hi> or <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ommiſſion to take an Anſwer, Plea or Demurrer.</p>
+            <p>For ſuch a Coppy or Abſtract is needleſs, the Defendant being oblig'd to take a Coppy of the Bill to know what is thereby charg'd againſt him, and to be adviſed by Counſel what to do before he takes a <hi>Dedimus,</hi> therefore it is ſuperfluous and needleſs to have another Coppy or Abſtract of the ſame Bill annext to the <hi>Dedimus.</hi>
+            </p>
+            <p>
+               <hi>2dly.</hi> That all matters alledg'd in a Bill, and not directly and fully Anſwered, by the firſt or ſecond <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſwer, ſhall be taken for confeſs'd, and admitted by the Defendant to be true as in the Bill alledged.</p>
+            <p>For hitherto every Defendant that hath a mind to delay the Plaintiff is admitted to put in four inſufficient Anſwers before what is not Anſwered thereby is to be taken for truth, and the Pro<g ref="char:EOLhyphen"/>ceedings in ſuch a Caſe is very tedious and chargeable, for upon the firſt inſufficient Anſwer there muſt be Exceptions drawn and filed, and then a Motion to refer thoſe Exceptions to a Maſter, and an Order drawn up and paſs'd upon that Motion, and after that a Summons, or two, or three, or more to attend the Maſter, and perhaps three or four attendances before him with Counſel and Solicitors on both ſides before he'll make his Report, and after that if the Report be that the An<g ref="char:EOLhyphen"/>ſwer is inſufficient the Defendant may put exceptions to that Report, and thoſe exceptions muſt be argued in Court, and if overrul'd, then there muſt be a <hi>Subpoena,</hi> or a Rule given for a better Anſwer, and <hi>proceſs</hi> of contempt till the ſecond Anſwer, and when that is come in and proves in<g ref="char:EOLhyphen"/>ſufficient there muſt be another Motion for a Reference to a Maſter upon that Anſwer, and the <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Dance over again as on the firſt Anſwer, and ſo, if the third Anſwer prove inſufficient, and he like if the fourth prove inſufficient, and when that is found inſufficient the Defendant is to be <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mmitted to the Priſon of the <hi>Fleet</hi> if he can be catch't and examin'd on Interogatories, and then what is not Anſwer'd by any of thoſe four Anſwers, nor by the examination on the Interogatories, ſhall be taken for truth, all which proceeding after the firſt or ſecond Anſwer is needleſs, for with good heed taken all matters aleadg'd in a Bill may be Anſwered to by the firſt Anſwer, or at leaſt by the ſecond as well as by ever ſo many more.</p>
+            <pb n="2" facs="tcp:34580:2"/>
+            <p> 
+               <hi>3dly.</hi> That a Commiſſion or Commiſſions for Examining ſuch Witneſſes as live in <hi>England</hi> or <hi>W<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> both for Plaintiff and Defendant, ſhall be taken out and Executed in the next Lent or Autum Vacat<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> after Iſſue join'd: and return'd before the end of the Terme next following, and that no Commiſſion fo<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Examining ſuch Witneſſes be afterwards graunted in that Cauſe upon any pretence whatſoever, and th<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> there be no Commiſſion for Examining Witneſſes into <hi>Scotland, Ireland,</hi> or other parts beyond the Sea<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> till the Names of ſuch Witneſſes are left with the Clerk of the other ſide, with the parties Affidavit praying ſuch Commiſſion, that he beleives them to be material Witneſſes, with his Reaſons for ſuch his beleif.</p>
+            <p>For the practice hath been, and I beleive is ſo yet, that a Defendant that affects dalay often lyes ſtill while the Plaintiff Examines his Witneſſes, and after the Plaintiff hath done Examining then comes the Defendant and prayes a Comiſſion, as a thing of Right, to Examine his VVitneſſes in doing of which he ſpins out the time as long as he can, whenas both ſides with ordinary dili<g ref="char:EOLhyphen"/>gence may Examine all ſuch VVitneſſes as live in <hi>England</hi> or <hi>Wales</hi> in a Lent or Autumn Vacation and for that Commiſſions to Examine VVitneſſes are often ſent beyond Sea meerly for delay which ought to be prevented as much as may be, nothing but ſuch an Affidavit as above mentioned can prevent it.</p>
+            <p>
+               <hi>4thly.</hi> That no Man be oblig'd to take Coppies of any Interrogatories with the Coppyes of the Depo<g ref="char:EOLhyphen"/>ſitions unleſs he will.</p>
+            <p>For the Interrogatories are for the moſt part needleſs after the VVitneſſes are Examined, and both Plaintiff and Defendant keep Coppies of their own Interrogatories, and to force them to take and pay for Coppyes of what they have by them, is very unreaſonable, and Coppies of Depoſitions come ſometimes to three, or four, or ten Pounds of a ſide.</p>
+            <p>
+               <hi>5thly</hi> That there be 15 lines written in every Sheet, in all Coppies of Bills, Anſwers, Pleas, Demur<g ref="char:EOLhyphen"/>rers, Interrogatories and Depoſitions, and of Records and other proceedings in Chauncery and other Courts of Equity, and as many words in every Line as will make 18 Syllables at the leaſt.</p>
+            <p>
+               <note place="margin">L: <hi>Clarendon</hi>'s Order.</note> For, though by the eſtabliſht Rules of the Court of <hi>Chauncery,</hi> there ought to be 15 Lines at the leaſt in every Sheet of Coppies; written fairly, orderly and unwaſtfully, and though the Clerks do for the moſt part write 15 Lines in a Sheet, they write their Letters and VVords ſo ſtraglingly, diſorderly and waſtfully, and ſo far aſunder, that there is ſeldome above 5 or 6 words in a Line, or 13 words in a Line, ſo that by that Irregular way of writing Coppies of late us'd there is almoſt double of what ought to be Exacted from the Subject in that particular, and therefore the words and ſyllables in each line, as well as the lines in each Sheet, ought to be aſcertained. But now to Juſtifie that waſtful way of writing but 5 or 6 words in a Line, they ſay they are oblig'd to it by a <hi>Clauſe in the Act of Parliament.</hi> 5. and 6. <hi>Will. &amp; Mariae</hi> cap 15, which Enacts, that all Re<g ref="char:EOLhyphen"/>cords, VVrits, Pleadings, and other Proceedings in Courts of Law and Equity, and all Deeds, Inſtruements, and other VVritings by that Act charg'd with the duty ſhall be Ingroſed and writen in ſuch manner as they have been uſually accuſtomed to be written or were written at the time of making the Act, and becauſe at that time they uſueally wrote but 5 or 6 words in a Line, they think they ought never to write any more, but I Conceive that the Statute intended no ſuch thing, and that there ought to be no ſuch Conſtruction put upon any Act of Parliament as might Eſtabliſh iniquity by a Law if it will bear any other Conſtruction, and it may very well be under ſtood that the intent of the makers of that Clauſe intended it ſhould extend only to Originall Re<g ref="char:EOLhyphen"/>cords, VVrits, Pleadings and other VVritings, and not to Coppies of them, becauſe Coppies are not mention'd, and morecover if Coppies had been mentioned, or can be intended to be within the meaning of the Act, I think it ought to be intended to mean and extend to ſuch manner of VVriting of Coppyes as was uſually and Lawful, and not uſual and Extorting, as all looſe diſ<g ref="char:EOLhyphen"/>orderly and waſtfull writing of Coppyes was then</p>
+            <p>
+               <hi>6thly.</hi> That all Cauſes ſhall be heard in order and in courſe as they ſhall be at firſt order'd and ſet down for hearing, and that no Cauſe be prefer'd or <hi>poſt-poned</hi> in the paper of Cauſes by any Regiſter or other without ſpecial order of the Court, on pain that ſuch Regiſter or other that ſhall ſo doe, <hi>ſhall be diſplac'd for ever.</hi>
+            </p>
+            <p>For great inconvenincies, charge and trouble do happen to Suiters by the Regiſters Removing Cauſes backwards and forwards in the paper of Cauſes at their pleaſure, as if this Day at the Riſing of the Court a Man's Cauſe ſtands in the Paper the 3d or 4th. from the Cauſe laſt heard, ſo that he remov'd a dozen or twenty Cauſes off by the Regiſter without any order of Court for ſo doing, &amp; by ſuch means the Cauſe may not come to be heard in a VVeek or a Month after, and in ſuch Caſes the Counſel expect refreſhing Fees, and for all that, it's ten to one if they have not forgot their inſtructions by that time the Cauſe comes to be heard, and ſo a good Cauſe may be loſt, and the party and his Family ruin'd and undone.</p>
+            <p>
+               <hi>7thly.</hi> That at the making or pronouncing every ſpeciall Order that is not a meer order <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Regiſter ſhall write down in a Book for that purpoſe the very words of the Court, and immediately read the ſame in Court with an audible voice before any other matter be proceeded upon, that if there be any miſtake it may be then rectified, &amp; that in drawing the Order he incert the very words pronounc'd by the Court and no other in the ordering part, upon pain of <hi>being diſplac'd for ever.</hi>
+            </p>
+            <pb n="3" facs="tcp:34580:2" rendition="simple:additions"/>
+            <p> For the charge and trouble hath oftentimes been very great by reaſon of the Regiſters willful or or negligent miſtake, the partie grieved in ſuch Caſes, being forc'd again to have recourſe to the Court to have the Order ſetled, which, by this means, may be prevented.</p>
+            <p>
+               <hi>8thly.</hi> That there ſhall be no Recital of any Allegation of Counſel, or of the Bill or Anſwer, or other inducements in any Order whatſoever, either Interlocutory or Decretall.</p>
+            <p>For thoſe Recitals are not material in any Order, only to make it ſo much the longer which it doth oftentimes to a very great Degree, and makes the charge of an Order for the moſt part four or five, or ten times more then otherwiſe it would be.</p>
+            <p>
+               <hi>9thly.</hi> That after an Order is made, on hearing Counſel on both ſides, ſuch Order ſhall not be moved againſt or diſcharged, nor any Order made contrary thereto, unleſs for new matter ariſing after ſuch Or<g ref="char:EOLhyphen"/>der made, or upon an Appeal.</p>
+            <p>For ſome Spirits are ſo Reſtleſs, and others ſo purſeproud, that when an Order is made that is not to their liking though ever ſo Reaſonable, they well be moveing again and again againſt it, and ſo one Order begets another, <hi>'ad infinitum,</hi> which as I have heard occaſion'd a Merry Fellow once to move for a gelt Order, meaning an Order that would get no more Orders.</p>
+            <p>
+               <hi>10thly.</hi> That every one that obtains a Decree or Diſmiſſion of a Bill, or an Order for allowing or over<g ref="char:EOLhyphen"/>ruling any Plea or Demurrer ſhall have his full coſt with lawful Intereſt for all Money or other due de<g ref="char:EOLhyphen"/>tein'd for the time of the deteiner.</p>
+            <p>For it hath been uſual in Chauncery (though not at Common Law) that where the party hath a probable Cauſe of Suite, as they call it, and a Decree be made againſt him, he ſhall pay no coſt to the other ſide, which I conceive unreaſonable, though in ever ſo doubtful a Caſe, for by that means one Man ſhall make experiments at another Mans Charge, but it is fitter that he that the Court ſhall adjudge to be in the wrong ſhall in all Suits ſuffer, rather then he that is in the right, and by the Statute 15 <hi>H.</hi> 6. cap. 4. which Enacts, <hi>that no Subpoena ſhould be graunted untill ſecurety be given to ſatiſfie the party greived, his damages and expences, if the matter be not made good that is contein'd in the Bill,</hi> though the Chauncery regard not that Statute, it was intended, that in Caſe of falſe ſuggeſtions, Coſts ſhould be pay'd to the party greived thereby, and the greiveance is the ſame to be forced into Chauncury upon a matter that will not hold water as upon a falſe ſuggeſtion. Alſo, if a Man be forced to come into Chauncery for a juſt demand, there is as much good Conſcience for his having his neceſſary Coſts &amp; Charges as is for his having the thing demanded, yet oftentimes in Chancery, after one hath been forc'd to ſpend as much as the thing ſued for amounts to, and hath got a Decree for it, yet the Court hath deny'd him his Coſt of Suite, ſo that he had as good never have Sued as to have recovered. And if a Man recovers a due in Chan<g ref="char:EOLhyphen"/>ſery, I think he ought in good Conſcience to have lawful Intereſt for the time of the deteiner of the due, for he, from whom the due is detein'd, cannot borrow Mony to ſupply his occaſions pending the Suite without paying Intereſt for it.</p>
+            <p>
+               <hi>11thly.</hi> That there ſhall be no re-hearings after one Kallender Month after the firſt hearing, nor with<g ref="char:EOLhyphen"/>out paying to the other party or his Clerk or Solicitor Tenn Pounds ſix days before the Day of rehear<g ref="char:EOLhyphen"/>ing towards ſeeing Counſel and defraying other incident Charges.</p>
+            <p>For when a Decree is made, it is to be preſumed a juſt Decree till the contrary appear, &amp; therefore it is but reaſonable the Rehearing ſhould be at the Charge of them that deſire it, and that the time for Re-hearing be limmitted to prevent a long affected delay, Re-hearings being often deſir'd, when nothing but delay can be expected thereby.</p>
+            <p>
+               <hi>12thly.</hi> That upon Bills of Review, the Depoſitions taken, and the Deeds prov'd and confeſs'd in the Originial Cauſe may be made uſe of to make out the Juſtice or Injuſtice of the Decree to be review'd.</p>
+            <p>For it is Reaſonable it ſhould be ſo, for without that an unjuſt Decree cannot be made appear to be ſo, and ſo was the practice heretofore, if we beleive <hi>Roll's</hi> Abridgement, 1ſt. part, page 382. Nu. 4. but of late, if a Decree be made without any proof to warrant it, or contrary to the proofs, there is no help by Bill of Review according to the late practice, for it is ſaid, it is not to be preſumed that the Chauncery would make a Decree contrary to the proofs in the Cauſe, but it may happen that through the Knavery or negligence of a Solicitor or Counſel, a material Deed or depoſition may be omitted at the hearing of a Cauſe, and the Decree may be Inroll'd before the Clyent finds it out, and if it be not to be made uſe of on the Bill of Review, the party may be without Remedy, for upon an Appeal to the Lords, nothing hath been of late admitted to be made uſe of there that was not made uſe of at the hearing, when the Decree Appeald from was made, ſo that if the Deeds and depoſitions in a Cauſe be not to be the meaſure of Equity on a Bill of Review, a Corrupt Solicitor or Counſel hath a great opportunity irrecoverably to betray his Clients Cauſe, which I hope none will ſay ought to be allow'd.</p>
+            <p>
+               <hi>13thly.</hi> That all Counſel in Chauncery and other Courts of Equity ſhall be heard to make their Moti<g ref="char:EOLhyphen"/>ons in Order and courſe as they are at the Barr, and that all of them (the Kings Councel excepted) shall take their places according to their Degree and Seniority.</p>
+            <p>For it is the right of the Profeſſion to have it ſo, and at the Common Pleas Barr the Serjants at Law do take their Places and are heard their motions according to their Seniority, and ſo do the Counſel in the Courts of Great Seſſions in <hi>Wales,</hi> but the manner in Chauncery hath been hitherto for the Court to call to and cull out the Counſel as the Court likes their Faces, which begets an
+<pb n="4" facs="tcp:34580:3" rendition="simple:additions"/>opinion in the People, that one Counſel may obtein that for his Client which another can't, w<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ought not to be.</p>
+            <p>It is objected by ſome, <hi>That the King cannot preſcribe Rules for the Chauncery without an Act of Parliament.</hi> But in Anſwer to that, it is to be noted that in the Lord <hi>Hobarts</hi> Reports pag. 36. it is affirm'd, <hi>that all Kingdoms in their Conſtitution are furniſht with the power of Juſtice both accor<g ref="char:EOLhyphen"/>ding to the Rule of Law, and according to Equity,</hi> both which being in the King as Sovereign were after ſetled in the ſeveral Courts. But that part of Equity being oppoſite to regular Law, and in a manner an Arbitrary diſpoſition, is ſtill Adminiſtred by the King himſelf and his Chaun<g ref="char:EOLhyphen"/>cellor in his name from the beginning, as a ſpecial truſt committed to the King, and not by him to be committed to any other, and though out of diſcretion they entertain ſome formes, yet they may juſtly leave them in ſpecial Caſes, and that this power of Judging according to E<g ref="char:EOLhyphen"/>quity was lodged in the King by Act of Parliament before the Conqueſt &amp; confirm'd to him ſince, appears by <hi>Lamberts</hi> Book <hi>de Priſcis Anglorum legibus,</hi> pa. 62, 63. <hi>Archeion</hi> 58. 1ſt <hi>R.</hi> 2. <hi>Rot. Parl. Nu.</hi> 87. not in Print, which, who liſt may look into.</p>
+            <p>The Writ of <hi>Subpoena,</hi> which is the groundwork &amp; foundation of proceeding in Equity, was invented by <hi>John</hi> of <hi>Waltham</hi> Maſter of the <hi>Rolls</hi> in the beginning of <hi>R.</hi> 2. as appears <hi>Rot.</hi> Parl. 3 <hi>H.</hi> 5. <hi>Nu.</hi> 49. and it was us'd and continued ſince without any Act of Parliament for it, and the Lord Chauncellor <hi>Bacon</hi> and the Lord Chauncellor <hi>Clarendon,</hi> &amp;c. made Orders and Rules for the Court of Chauncery without any Act of Parliament, and if a Chauncellor can make Orders and Rules at his own pleaſure, why ſhould not the King that makes the Chauncellor make him obſerve ſuch Rules as he thinks juſt and reaſonable to prevent oppreſſion and extortion.</p>
+            <p>In the <hi>Rolls</hi> Chappel among the Rolls of the 14. of K. <hi>J.</hi> 1. part 6. N. 25. is the Enrollment of an Order made by the King himſelf for the Court of Chauncery to give Releif in Equity after a Judg<g ref="char:EOLhyphen"/>ment at Law, which the Judges of the Common Law Courts then oppoſed, and that Order hath been obſerved hitherto, and if the King can make an Order as to the Juriſdiction of the Chauncery, why not for amendment of the proceedings to prevent delay and Extortion? and if he can make one Order, why not a hundred if there be occaſion.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
